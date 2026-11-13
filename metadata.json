@@ -1,0 +1,6 @@
+{
+  "name": "MB-04 Industrial Mill Monitor",
+  "description": "Real-time industrial grinding mill telemetry, SHAP explainable AI diagnostics, and predictive maintenance dashboard for Primary Mill MB-04.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
